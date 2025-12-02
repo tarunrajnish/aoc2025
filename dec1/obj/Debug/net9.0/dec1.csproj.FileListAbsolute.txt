@@ -1,0 +1,14 @@
+C:\Projects\aoc-2025\dec1\bin\Debug\net9.0\dec1.exe
+C:\Projects\aoc-2025\dec1\bin\Debug\net9.0\dec1.deps.json
+C:\Projects\aoc-2025\dec1\bin\Debug\net9.0\dec1.runtimeconfig.json
+C:\Projects\aoc-2025\dec1\bin\Debug\net9.0\dec1.dll
+C:\Projects\aoc-2025\dec1\bin\Debug\net9.0\dec1.pdb
+C:\Projects\aoc-2025\dec1\obj\Debug\net9.0\dec1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\aoc-2025\dec1\obj\Debug\net9.0\dec1.AssemblyInfoInputs.cache
+C:\Projects\aoc-2025\dec1\obj\Debug\net9.0\dec1.AssemblyInfo.cs
+C:\Projects\aoc-2025\dec1\obj\Debug\net9.0\dec1.csproj.CoreCompileInputs.cache
+C:\Projects\aoc-2025\dec1\obj\Debug\net9.0\dec1.dll
+C:\Projects\aoc-2025\dec1\obj\Debug\net9.0\refint\dec1.dll
+C:\Projects\aoc-2025\dec1\obj\Debug\net9.0\dec1.pdb
+C:\Projects\aoc-2025\dec1\obj\Debug\net9.0\dec1.genruntimeconfig.cache
+C:\Projects\aoc-2025\dec1\obj\Debug\net9.0\ref\dec1.dll
