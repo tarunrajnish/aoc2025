@@ -1,0 +1,15 @@
+C:\Projects\aoc-2025\dec3\bin\Debug\net9.0\dec3.exe
+C:\Projects\aoc-2025\dec3\bin\Debug\net9.0\dec3.deps.json
+C:\Projects\aoc-2025\dec3\bin\Debug\net9.0\dec3.runtimeconfig.json
+C:\Projects\aoc-2025\dec3\bin\Debug\net9.0\dec3.dll
+C:\Projects\aoc-2025\dec3\bin\Debug\net9.0\dec3.pdb
+C:\Projects\aoc-2025\dec3\obj\Debug\net9.0\dec3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\aoc-2025\dec3\obj\Debug\net9.0\dec3.AssemblyInfoInputs.cache
+C:\Projects\aoc-2025\dec3\obj\Debug\net9.0\dec3.AssemblyInfo.cs
+C:\Projects\aoc-2025\dec3\obj\Debug\net9.0\dec3.csproj.CoreCompileInputs.cache
+C:\Projects\aoc-2025\dec3\obj\Debug\net9.0\dec3.sourcelink.json
+C:\Projects\aoc-2025\dec3\obj\Debug\net9.0\dec3.dll
+C:\Projects\aoc-2025\dec3\obj\Debug\net9.0\refint\dec3.dll
+C:\Projects\aoc-2025\dec3\obj\Debug\net9.0\dec3.pdb
+C:\Projects\aoc-2025\dec3\obj\Debug\net9.0\dec3.genruntimeconfig.cache
+C:\Projects\aoc-2025\dec3\obj\Debug\net9.0\ref\dec3.dll

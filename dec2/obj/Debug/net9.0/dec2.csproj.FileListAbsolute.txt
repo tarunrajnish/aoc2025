@@ -1,0 +1,15 @@
+C:\Projects\aoc-2025\dec2\obj\Debug\net9.0\dec2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\aoc-2025\dec2\obj\Debug\net9.0\dec2.AssemblyInfoInputs.cache
+C:\Projects\aoc-2025\dec2\obj\Debug\net9.0\dec2.AssemblyInfo.cs
+C:\Projects\aoc-2025\dec2\obj\Debug\net9.0\dec2.csproj.CoreCompileInputs.cache
+C:\Projects\aoc-2025\dec2\obj\Debug\net9.0\dec2.sourcelink.json
+C:\Projects\aoc-2025\dec2\bin\Debug\net9.0\dec2.exe
+C:\Projects\aoc-2025\dec2\bin\Debug\net9.0\dec2.deps.json
+C:\Projects\aoc-2025\dec2\bin\Debug\net9.0\dec2.runtimeconfig.json
+C:\Projects\aoc-2025\dec2\bin\Debug\net9.0\dec2.dll
+C:\Projects\aoc-2025\dec2\bin\Debug\net9.0\dec2.pdb
+C:\Projects\aoc-2025\dec2\obj\Debug\net9.0\dec2.dll
+C:\Projects\aoc-2025\dec2\obj\Debug\net9.0\refint\dec2.dll
+C:\Projects\aoc-2025\dec2\obj\Debug\net9.0\dec2.pdb
+C:\Projects\aoc-2025\dec2\obj\Debug\net9.0\dec2.genruntimeconfig.cache
+C:\Projects\aoc-2025\dec2\obj\Debug\net9.0\ref\dec2.dll
